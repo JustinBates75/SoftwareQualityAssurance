@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBPROG2070Assignment2", "JBPROG2070Assignment2\JBPROG2070Assignment2.csproj", "{DAC5486A-EB7A-460C-96B1-96C9FED5C157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JBPROG2070.Tets", "JBPROG2070.Tets\JBPROG2070.Tets.csproj", "{AACA9DBA-EC46-4292-A4D1-BEED1AA9A723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAC5486A-EB7A-460C-96B1-96C9FED5C157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC5486A-EB7A-460C-96B1-96C9FED5C157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC5486A-EB7A-460C-96B1-96C9FED5C157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC5486A-EB7A-460C-96B1-96C9FED5C157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AACA9DBA-EC46-4292-A4D1-BEED1AA9A723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AACA9DBA-EC46-4292-A4D1-BEED1AA9A723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AACA9DBA-EC46-4292-A4D1-BEED1AA9A723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AACA9DBA-EC46-4292-A4D1-BEED1AA9A723}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0509D49-8E84-4C7E-930A-ABC37AE44B50}
+	EndGlobalSection
+EndGlobal
